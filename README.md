@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Hi there, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-<img align="right" alt="GIF" height="125px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" />
+<img align="right" alt="GIF" height="125px" src="http://25.media.tumblr.com/13dd675131c7ad9e44d00e86658cbf4b/tumblr_mkiird1tds1s65caoo1_1280.gif" />
 
 **Personal Stuffs:**
 - 🔭 -
