@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Hi there, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-<img align="right" alt="GIF" height="125px" src="https://media0.giphy.com/media/lyZf71HsoKOAck5NuQ/giphy.gif?cid=6c09b952bcbc026771bf87b99875e0b0b513a9f9a0224bd8&rid=giphy.gif&ct=s" />
+<img align="right" alt="GIF" height="125px" src="https://media3.giphy.com/avatars/Xueer7/VQtx4wsZzx7j.gif" />
 
 **Personal Stuffs:**
 - 🔭 -
