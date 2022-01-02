@@ -18,9 +18,10 @@ Here are some ideas to get you started:
 <img align="right" alt="GIF" height="125px" src="https://media3.giphy.com/avatars/Xueer7/VQtx4wsZzx7j.gif" />
 
 **Personal Stuffs:**
-- 🔭 -
-- 🌱 -
-- ✨ -
+- 🍌 - banana lovers
+- 🎨 - illustrator & graphic designer
+- 🌱 - like gardening
+- 🎮 - ugh yash
 
 <details>
   <summary><b>My Github Stats</b></summary>
